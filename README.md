@@ -26,6 +26,8 @@ cargo install cargo-binutils
 make
 ```
 
+Now you should have a binary `target/thumbv7em-none-eabi/release/examples/blinky`
+
 ## Pins
 
 | Pin | Component | Use |
